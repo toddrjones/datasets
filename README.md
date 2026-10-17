@@ -264,6 +264,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 <!-- - [Anthropic Economic Index](https://huggingface.co/datasets/Anthropic/EconomicIndex) - Actual AI exposure by job and by geography
 - [AI Job Exposure Index](https://github.com/openai/GPTs-are-GPTs) - [from Eloundout et. al](https://www.science.org/doi/10.1126/science.adj0998). Predicted exposure -->
+- [US healthcare job postings and posted pay (CareJobs.Now)](https://doi.org/10.5281/zenodo.23395728) - Open dataset of US healthcare job postings and the hourly pay employers post, by kind of job
 
 ---
 ### Businesses
