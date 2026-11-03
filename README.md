@@ -417,6 +417,10 @@ Lidar
   - Years: 1789-present; Access: Public
 - [CShapes 2.0](https://icr.ethz.ch/data/cshapes/) - Borders and capitals of states and dependent territories, as maps
   - Years: 1886-2019 (Europe from 1816); Access: Public (CC BY-NC-SA 4.0)
+- [HistWarDB](https://github.com/VincenzoManto/histwardb) - Who took part in which war, for sovereign and historical states, extracted and cleaned from Wikidata
+  - Years: 1700-present; Access: Public (code MIT, underlying data CC0 from Wikidata)
+  - Python toolkit yielding a conflict x country participation table and a Country x Year x Month war panel; conflicts and states carry Wikidata QIDs plus Correlates of War, Gleditsch-Ward and ISO 3166-1 codes
+  - Validated against Correlates of War and UCDP/PRIO; ships frozen, checksummed snapshots for reproducibility. DOI: [10.5281/zenodo.23243673](https://doi.org/10.5281/zenodo.23243673)
 
 ---
 
