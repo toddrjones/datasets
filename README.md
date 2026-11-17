@@ -227,6 +227,8 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
   - [nflverse](https://github.com/nflverse) - R package that you can use to get lots of data, including play-by-play
 - Marathons
    - [Marathon times](https://www.kaggle.com/runningwithrock/datasets)
+- MMA
+ - [fightr](https://github.com/benyamindsmith/fightr/) - R package for getting data on UFC fights and modelling fight outcomes.
 
 ---
 
@@ -453,6 +455,7 @@ Lidar
 - [Our World in Data](https://ourworldindata.org/search) - many datasets covering many topics such as health, education, environment, war, demographics, and democracy. Generally global in nature
 - [Item Response Warehouse](https://itemresponsewarehouse.org/) - billions of item responses from thousands of datasets. Accessible with API
 - [Global Flourishing Study](https://globalflourishingstudy.com/overview) - 22 countries, >200k respondents - questions on happiness, health, meaning, character, relationships, and financial topics
+- [RKaggle](https://github.com/benyamindsmith/RKaggle) - Load datasets and pre-trained models from Kaggle directly into the R console. 
 
 ---
 
