@@ -7,7 +7,7 @@ This is a compilation of 150+ free datasets that I hope can be useful to student
 
 ### Contents
 
-Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and death](#injury-and-death), [Crashes and traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Weather](#weather), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and cost of living](#inflation-and-cost-of-living), [Working](#working), [Businesses](#businesses), [Politics and voting](#politics-and-voting), [Health, public health, and epidemiology](#health-public-health-and-epidemiology), [Demography](#demography), [Real estate](#real-estate), [Patents](#patents), [Social networks](#social-networks), [Beliefs and values](#beliefs-and-values), [Law](#law), [Environment and energy](#environment-and-energy), [Shopping](#shopping), [Maps and geography](#maps-and-geography), [States, conflict, and regimes](#states-conflict-and-regimes), [Macroeconomics](#macroeconomics), [Finance](#finance), [Personal Finance](#personal-finance), [Misc.](#misc)
+Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and Death](#injury-and-death), [Crashes and Traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Weather](#weather), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and Cost of Living](#inflation-and-cost-of-living), [Working](#working), [Businesses](#businesses), [Politics and Voting](#politics-and-voting), [Health, Public Health, and Epidemiology](#health-public-health-and-epidemiology), [Demography](#demography), [Real Estate](#real-estate), [Patents](#patents), [Social Networks](#social-networks), [Beliefs and Values](#beliefs-and-values), [Law](#law), [Environment and Energy](#environment-and-energy), [Shopping](#shopping), [Maps and Geography](#maps-and-geography), [States, Conflict, and Regimes](#states-conflict-and-regimes), [Macroeconomics](#macroeconomics), [Finance](#finance), [Personal Finance](#personal-finance), [Misc.](#misc)
 
 ---
 
@@ -113,7 +113,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
  ---
  
-### Injury and death
+### Injury and Death
 
 - [NCHS Multiple Cause of Death](https://www.nber.org/research/data/mortality-data-vital-statistics-nchs-multiple-cause-death-data) - Individual-level US mortality data
   - Years: 1959-present. Only years before 2005 have geographical information.
@@ -126,7 +126,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 ---
 
-### Crashes and traffic
+### Crashes and Traffic
 
 - [Fatal Accident Reporting System (FARS)](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars) - Individual-level data on virtually the universe of US fatal car crashes
   - Years: 1975-present. Includes driver and passenger demographics, car characteristics, location, and other circumstances regarding the crash.
@@ -250,7 +250,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 ---
 
-### Inflation and cost of living
+### Inflation and Cost of Living
 
 - [CPI-U](https://fred.stlouisfed.org/series/CPIAUCNS#) - you can use this to adjust for inflation
   - To use, click on "Edit Graph" and adjust the frequency to "Annual" with "Average aggregation" method. 
@@ -282,7 +282,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 ---
 
-### Politics and voting
+### Politics and Voting
 - [Small-Area Global Elections (SAGE) Dataset](https://noahdasanaike.github.io/sage.html) - Granular, geocoded voting returns for 134 countries
 - [MIT Election Lab](https://electionlab.mit.edu/data) - Collection of various US election results
 - [NYT's Presidential precinct data for the 2024 U.S. general election](https://github.com/nytimes/presidential-precinct-map-2024)
@@ -293,7 +293,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 ---
 
-### Health, public health, and epidemiology
+### Health, Public Health, and Epidemiology
 
 - [National Health and Nutrition Examination Survey (NHANES)](https://www.cdc.gov/nchs/nhanes/index.html) - National survey for adults and children with various health-related questions
 - [National Health Interview Survey](https://nhis.ipums.org/nhis/)
@@ -329,7 +329,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 ---
 
-### Real estate
+### Real Estate
 
 - [Prices paid dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads) - All residential property sales in England and Wales (that are sold for value and registered)
   - Years: 2018-present. Has address and price paid.
@@ -349,14 +349,14 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 ---
 
-### Social networks
+### Social Networks
 
 - [Facebook Social Connectedness Index (SCI)](https://ai.meta.com/ai-for-good/datasets/social-connectedness-index/) - county-to-county connectedness
   - Based on Facebook friendships. Also country-to-country and other subnational links.
 
 ---
 
-### Beliefs and values
+### Beliefs and Values
 - [World Values Survey](https://www.worldvaluessurvey.org/WVSContents.jsp) - Worldwide survey on beliefs and values
 - [European Social Survey](https://www.europeansocialsurvey.org/) - European survey on attitudes, values, etc.
 - [World Risk Poll & Resilience Index](https://www.lrfoundation.org.uk/world-risk-poll-data) - Global survey on safety, risk, and harm
@@ -373,7 +373,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 ---
 
-### Environment and energy
+### Environment and Energy
 
 - [ERCOT](http://ercot.com/gridinfo/load/load_hist/index.html) - hourly electricity load data in Texas
   - 1995-present. ERCOT is the largest provider in the state
@@ -388,7 +388,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 ---
 
-### Maps and geography
+### Maps and Geography
 - [Historical Topographic Maps](https://www.usgs.gov/programs/national-geospatial-program/historical-topographic-maps-preserving-past)
   - Maps from 1884-2006
 - [Elevation data](https://cran.r-project.org/web/packages/elevatr/index.html) - R package to get elevation data from a variety of sources
@@ -401,7 +401,7 @@ Lidar
 
 ---
 
-### States, conflict, and regimes
+### States, Conflict, and Regimes
 
 - [Interstate System Dataset (ISD), version 2.1](https://doi.org/10.7910/DVN/GFF9WN) - All independent states since 1816, a wider list than the Correlates of War one
   - Years: 1816-2016; Access: Public (CC0)
