@@ -165,6 +165,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - [Trends in International Mathematics and Science Study (TIMSS)](https://timssandpirls.bc.edu/databases-landing.html) - measures math and science achievement for fourth and eighth graders around the world
 - See [here](https://ilsa-gateway.org/studies) for other international educational assessments.
 - [Higher Education Research and Development (HERD) Survey](https://ncses.nsf.gov/surveys/higher-education-research-development/2024) - data on college R&D expenditures, headcounts, etc.
+- [Research Administration as a Profession (RAAAP)](https://sites.google.com/view/raaap/home) - longitudinal data on research administrators 
 
 <!-- [University enrollments](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/P0D1KE&version=1.0) -->
 
