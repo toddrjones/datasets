@@ -84,7 +84,8 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
   - NLSY97 follows people born 1980-84, with the first interview in 1997
 - [IPUMS International](https://international.ipums.org/international/) - 100+ countries, 650+ surveys, 1B+ records
   - Massive, standardized compilation of censuses and surveys
- - [Household Pulse Survey/Household Trends and Outlook Pulse Survey](https://www.census.gov/programs-surveys/household-pulse-survey/data/datasets.html) Collected starting April 23, 2020 to measure timely issues affecting U.S. households. Household Pulse Survey ended on September 16, 2024 and was relaunched as Household Trends and Outlook Survey in early October 2024. 
+ - [Household Pulse Survey/Household Trends and Outlook Pulse Survey](https://www.census.gov/programs-surveys/household-pulse-survey/data/datasets.html) Collected starting April 23, 2020 to measure timely issues affecting U.S. households. Household Pulse Survey ended on September 16, 2024 and was relaunched as Household Trends and Outlook Survey in early October 2024.
+ - [Survey of Income and Program Participation (SIPP)](https://www.census.gov/programs-surveys/sipp.html) - nationally representative survey on program participation, income, employment, and many other things
   
 ---
 
