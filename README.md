@@ -7,7 +7,7 @@ This is a compilation of 150+ free datasets that I hope can be useful to student
 
 ### Contents
 
-Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and Death](#injury-and-death), [Crashes and Traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Weather](#weather), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and Cost of Living](#inflation-and-cost-of-living), [Working](#working), [Businesses](#businesses), [Politics and Voting](#politics-and-voting), [Health, Public Health, and Epidemiology](#health-public-health-and-epidemiology), [Demography](#demography), [Real Estate](#real-estate), [Patents](#patents), [Social Networks](#social-networks), [Beliefs and Values](#beliefs-and-values), [Law](#law), [Environment and Energy](#environment-and-energy), [Shopping](#shopping), [Maps and Geography](#maps-and-geography), [States, Conflict, and Regimes](#states-conflict-and-regimes), [Macroeconomics](#macroeconomics), [Finance](#finance), [Personal Finance](#personal-finance), [Misc.](#misc), [Packages to Download Data](#packages-to-download-data)
+Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and Death](#injury-and-death), [Crashes and Traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Weather](#weather), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and Cost of Living](#inflation-and-cost-of-living), [Working](#working), [Businesses](#businesses), [Politics and Voting](#politics-and-voting), [Health, Public Health, and Epidemiology](#health-public-health-and-epidemiology), [Demography](#demography), [Real Estate](#real-estate), [Patents](#patents), [Social Networks](#social-networks), [Beliefs and Values](#beliefs-and-values), [Law](#law), [Environment and Energy](#environment-and-energy), [Maps and Geography](#maps-and-geography), [States, Conflict, and Regimes](#states-conflict-and-regimes), [Macroeconomics](#macroeconomics), [Finance](#finance), [Personal Finance and Expenditures](#personal-finance-and-expenditures), [Misc.](#misc), [Packages to Download Data](#packages-to-download-data)
 
 ---
 
@@ -386,13 +386,6 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 ---
 
-### Shopping
-
-- [1.8 million Amazon purchases from 5000 people](https://github.com/aberke/amazon-study/tree/master/data)
-  - From [Open e-commerce 1.0, five years of crowdsourced U.S. Amazon purchase histories with user demographics](https://www.nature.com/articles/s41597-024-03329-6)
-
----
-
 ### Maps and Geography
 - [Historical Topographic Maps](https://www.usgs.gov/programs/national-geospatial-program/historical-topographic-maps-preserving-past)
   - Maps from 1884-2006
@@ -438,9 +431,12 @@ Lidar
  
 ---
 
-### Personal Finance
+### Personal Finance and Expenditures
 
-- [Survey of Consumer Finances](https://www.federalreserve.gov/econres/scfindex.htm) - survey on personal finances such as income, balance sheets. Includes demographics 
+- [Survey of Consumer Finances](https://www.federalreserve.gov/econres/scfindex.htm) - survey on personal finances such as income, balance sheets. Includes demographics
+- [Consumer Expenditure Survey](https://www.bls.gov/cex/) - survey on consumer expenditures
+- [1.8 million Amazon purchases from 5000 people](https://github.com/aberke/amazon-study/tree/master/data)
+  - From [Open e-commerce 1.0, five years of crowdsourced U.S. Amazon purchase histories with user demographics](https://www.nature.com/articles/s41597-024-03329-6)
 
 ---
 
