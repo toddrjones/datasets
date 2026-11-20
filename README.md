@@ -97,6 +97,8 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
    - From [The Opportunity Atlas: Mapping the Childhood Roots of Social Mobility](https://opportunityinsights.org/wp-content/uploads/2018/10/atlas_paper.pdf) and [Changing Opportunity: Sociological Mechanisms Underlying Growing Class Gaps and Shrinking Race Gaps in Economic Mobility](https://opportunityinsights.org/wp-content/uploads/2024/07/ChangingOpportunity_Paper.pdf)
 - [Migration Patterns](https://migrationpatterns.org/) - Counts of children commuting zone to adult commuting zone migration patterns, split by race and parental income
    - From [The Radius of Economic Opportunity: Evidence from Migration and Local Labor Markets](https://www2.census.gov/ces/wp/2022/CES-WP-22-27.pdf)
+- [County-to-county Migration Flows](https://www.census.gov/topics/population/migration/guidance/county-to-county-migration-flows.html)
+   - See also [here](https://www.census.gov/topics/population/migration.html) for additional migration data from the US Census
 
 ---
 
