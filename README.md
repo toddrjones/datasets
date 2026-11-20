@@ -342,6 +342,8 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - [World Income Inequality Database](https://www.wider.unu.edu/project/world-income-inequality-database) - longitudinal data on income inequality for 200+ countries
 - [Government Revenue Dataset](https://www.wider.unu.edu/project/grd-government-revenue-dataset) - government revenue and tax data for nearly 200 countries
 - [Economic Transformation Database](https://www.wider.unu.edu/project/etd-economic-transformation-database) - time series employment and productivity data by sector for 50+ developing countries
+- [The Humanitarian Data Exchange](https://data.humdata.org/) - huge data exchange for humanitarian data
+
 ---
 
 ### Real Estate
