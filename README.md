@@ -356,7 +356,6 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 - Lists with links to national statistical offices for countries around the world:
    - [United Nations's National Statistical Offices](https://unstats.un.org/home/nso_sites/)
-   - [International Statistical Institute's Statistical Offices Worldwide](https://isi-web.org/statistical-offices-worldwide?page=0)
    - [UK Data Service's National statistics institutes and principal statistical agencies](https://ukdataservice.ac.uk/help/other-data-providers/international-data/national-statistics-institutes/) 
    - [UIUC Library's International Statistics By Country](https://www.library.illinois.edu/global/global-studies-library-services/international-statistics-by-country-2/)
 
