@@ -317,6 +317,8 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
    - See [A comprehensive and standardized dataset on school feeding activities worldwide: The Global Survey of School Meal Programs](https://doi.org/10.1016/j.dib.2026.113018)
 - [Wellbeing as Outcome in Economic Evaluations](https://ssh.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/SS/5IEOPC) - compares multiple wellbeing measures 
    - See [here](https://wmicstudy.nl/) for more information
+- [Demographic and Health Surveys](https://dhsprogram.com/Data/) - individual-level data for developing countries on health and other outcomes
+  - Also available on [IPUMS](https://www.idhsdata.org/idhs/)  
 
 ---
 
@@ -332,6 +334,8 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
   - Years: varies by countries, Sweden from 1751
   - Access: free account registration
   - Geography: a selection of countries with high quality vital statistics, [see](https://www.humanfertility.org/Data/DataAvailabilityShort)
+- [Demographic and Health Surveys](https://dhsprogram.com/Data/) - individual-level data for developing countries on health and other outcomes
+  - Also available on [IPUMS](https://www.idhsdata.org/idhs/) 
 
 ---
 
@@ -377,6 +381,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - [World Values Survey](https://www.worldvaluessurvey.org/WVSContents.jsp) - Worldwide survey on beliefs and values
 - [European Social Survey](https://www.europeansocialsurvey.org/) - European survey on attitudes, values, etc.
 - [World Risk Poll & Resilience Index](https://www.lrfoundation.org.uk/world-risk-poll-data) - Global survey on safety, risk, and harm
+- [Afrobarometer](https://www.afrobarometer.org/data/) - African surveys on many topics such as democracy and governance 
 
 ---
 
