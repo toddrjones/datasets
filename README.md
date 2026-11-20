@@ -7,7 +7,7 @@ This is a compilation of 150+ free datasets that I hope can be useful to student
 
 ### Contents
 
-Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and Death](#injury-and-death), [Crashes and Traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Weather](#weather), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and Cost of Living](#inflation-and-cost-of-living), [Working](#working), [Businesses](#businesses), [Politics and Voting](#politics-and-voting), [Health, Public Health, and Epidemiology](#health-public-health-and-epidemiology), [Demography](#demography), [Multi-country](#multi-country), [National Statistics Offices](#national-statistics-offices), [Real Estate](#real-estate), [Patents](#patents), [Social Networks](#social-networks), [Beliefs and Values](#beliefs-and-values), [Law](#law), [Environment and Energy](#environment-and-energy), [Maps and Geography](#maps-and-geography), [States, Conflict, and Regimes](#states-conflict-and-regimes), [Macroeconomics](#macroeconomics), [Finance](#finance), [Personal Finance and Expenditures](#personal-finance-and-expenditures), [Charitable Donations](#charitable-donations), [Misc.](#misc), [Packages to Download Data](#packages-to-download-data)
+Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and Death](#injury-and-death), [Crashes and Traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Weather](#weather), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and Cost of Living](#inflation-and-cost-of-living), [Working](#working), [Businesses](#businesses), [Politics and Voting](#politics-and-voting), [Health, Public Health, and Epidemiology](#health-public-health-and-epidemiology), [Demography](#demography), [Multi-country](#multi-country), [National Statistics Offices](#national-statistical-offices), [Real Estate](#real-estate), [Patents](#patents), [Social Networks](#social-networks), [Beliefs and Values](#beliefs-and-values), [Law](#law), [Environment and Energy](#environment-and-energy), [Maps and Geography](#maps-and-geography), [States, Conflict, and Regimes](#states-conflict-and-regimes), [Macroeconomics](#macroeconomics), [Finance](#finance), [Personal Finance and Expenditures](#personal-finance-and-expenditures), [Charitable Donations](#charitable-donations), [Misc.](#misc), [Packages to Download Data](#packages-to-download-data)
 
 ---
 
@@ -350,9 +350,9 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 ---
 
-### National Statistics Offices
+### National Statistical Offices
 
-- Others have already compiled lists with links to National Statistics Offices for countries around the world:
+- Lists with links to national statistical offices for countries around the world:
    - [United Nations's National Statistical Offices](https://unstats.un.org/home/nso_sites/)
    - [International Statistical Institute's Statistical Offices Worldwide](https://isi-web.org/statistical-offices-worldwide?page=0)
    - [UK Data Service's National statistics institutes and principal statistical agencies](https://ukdataservice.ac.uk/help/other-data-providers/international-data/national-statistics-institutes/) 
