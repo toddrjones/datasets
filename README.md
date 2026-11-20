@@ -7,7 +7,7 @@ This is a compilation of 150+ free datasets that I hope can be useful to student
 
 ### Contents
 
-Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and Death](#injury-and-death), [Crashes and Traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Weather](#weather), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and Cost of Living](#inflation-and-cost-of-living), [Working](#working), [Businesses](#businesses), [Politics and Voting](#politics-and-voting), [Health, Public Health, and Epidemiology](#health-public-health-and-epidemiology), [Demography](#demography), [Real Estate](#real-estate), [Patents](#patents), [Social Networks](#social-networks), [Beliefs and Values](#beliefs-and-values), [Law](#law), [Environment and Energy](#environment-and-energy), [Shopping](#shopping), [Maps and Geography](#maps-and-geography), [States, Conflict, and Regimes](#states-conflict-and-regimes), [Macroeconomics](#macroeconomics), [Finance](#finance), [Personal Finance](#personal-finance), [Misc.](#misc)
+Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and Death](#injury-and-death), [Crashes and Traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Weather](#weather), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and Cost of Living](#inflation-and-cost-of-living), [Working](#working), [Businesses](#businesses), [Politics and Voting](#politics-and-voting), [Health, Public Health, and Epidemiology](#health-public-health-and-epidemiology), [Demography](#demography), [Real Estate](#real-estate), [Patents](#patents), [Social Networks](#social-networks), [Beliefs and Values](#beliefs-and-values), [Law](#law), [Environment and Energy](#environment-and-energy), [Shopping](#shopping), [Maps and Geography](#maps-and-geography), [States, Conflict, and Regimes](#states-conflict-and-regimes), [Macroeconomics](#macroeconomics), [Finance](#finance), [Personal Finance](#personal-finance), [Misc.](#misc), [Packages to Download Data](#packages-to-download-data)
 
 ---
 
@@ -457,11 +457,16 @@ Lidar
 - [Gapminder](https://www.gapminder.org/data/) - various longitudinal, global datasets covering things like life expectancy, GDP, fertility, life expectancy, and child mortality
 - [Our World in Data](https://ourworldindata.org/search) - many datasets covering many topics such as health, education, environment, war, demographics, and democracy. Generally global in nature
 - [Item Response Warehouse](https://itemresponsewarehouse.org/) - billions of item responses from thousands of datasets. Accessible with API
-- [Global Flourishing Study](https://globalflourishingstudy.com/overview) - 22 countries, >200k respondents - questions on happiness, health, meaning, character, relationships, and financial topics
-- [RKaggle](https://github.com/benyamindsmith/RKaggle) - Load datasets and pre-trained models from Kaggle directly into the R console. 
+- [Global Flourishing Study](https://globalflourishingstudy.com/overview) - 22 countries, >200k respondents - questions on happiness, health, meaning, character, relationships, and financial topics 
 
 ---
 
+### Packages to Download Data
+
+- [tidycensus](https://walker-data.com/tidycensus/) - R package to get decennial Census and ACS data (requires a Census API key)
+- [RKaggle](https://github.com/benyamindsmith/RKaggle) - R package to Kaggle datasets Load datasets
+- [Elevation data](https://cran.r-project.org/web/packages/elevatr/index.html) - R package to get elevation data from a variety of sources
+  
 Disclaimer: This site may contain errors and in no way do we guarantee the accuracy or quality of the referenced data. In no event will we be liable for any loss or damage.
 
 <!-- 
