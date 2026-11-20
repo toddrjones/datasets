@@ -51,11 +51,13 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 ### US Censuses and Economic History
 
-- [1850-1880 and 1900-1950 individual-level full count US Censuses](https://usa.ipums.org/usa/)
+- [1850-1880 and 1900-1950 individual-level full-count US Censuses](https://usa.ipums.org/usa/)
   - This version is from IPUMS, which requires an agreement.
-    - IPUMS also has samples of some of the later Censuses
   - Information varies by year, but includes fields like age, sex, race, occupation, household structure, etc. Sometimes earnings and years of education.
   - It does not include name or address.
+- Later US Censuses - the [tidycensus](https://walker-data.com/tidycensus/) R package (requires a Census API key) can be used to pull data from 2000, 2010, and 2020.
+  - Note that it does not contain full-count data.
+  - IPUMS also has samples of some or all of the post-1950 Censuses.
 - [OpenCensus](https://opencensus.us/)
    - A project that is initially working to make the 1940 Census publicly available, so it includes name, address, etc.
 - Individual-level links between Censuses
