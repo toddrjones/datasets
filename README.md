@@ -495,7 +495,9 @@ Lidar
 - [tidycensus](https://walker-data.com/tidycensus/) - R package to get decennial Census and ACS data (requires a Census API key)
 - [RKaggle](https://github.com/benyamindsmith/RKaggle) - R package to load datasets from Kaggle
 - [Elevation data](https://cran.r-project.org/web/packages/elevatr/index.html) - R package to get elevation data from a variety of sources
-  
+
+---
+
 Disclaimer: This site may contain errors and in no way do we guarantee the accuracy or quality of the referenced data. In no event will we be liable for any loss or damage.
 
 <!-- 
