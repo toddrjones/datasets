@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you'd like, you can cite using these metadata."
+type: dataset
+title: "Free Datasets for Social Science and Economic Research"
+abstract: "A curated compilation of 150+ free datasets for use in social science and economic research, with contributions from the community."
+authors:
+  - family-names: "Jones"
+    given-names: "Todd R."
+    affiliation: "Mississippi State University"
+license: "CC0-1.0"
+repository-code: "https://github.com/toddrjones/datasets"
+keywords:
+  - "datasets"
+  - "social science"
+  - "economics"
+  - "applied microeconomics"
+  - "open data"
+  - "public data"
+  - "data visualization"
