@@ -233,9 +233,9 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - NFL
   - [nflverse](https://github.com/nflverse) - R package that you can use to get lots of data, including play-by-play
 - Marathons
-   - [Marathon times](https://www.kaggle.com/runningwithrock/datasets)
+  - [Marathon times](https://www.kaggle.com/runningwithrock/datasets)
 - MMA
- - [fightr](https://github.com/benyamindsmith/fightr/) - R package for getting data on UFC fights and modelling fight outcomes.
+  - [fightr](https://github.com/benyamindsmith/fightr/) - R package for getting data on UFC fights and modelling fight outcomes.
 
 ---
 
@@ -400,7 +400,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 ### Law
 
 - [A list of all federal laws](https://osf.io/qa289) 
- - From [A comprehensive dataset of U.S. federal laws (1789–2022)](https://www.nature.com/articles/s41597-023-02758-z)
+  - From [A comprehensive dataset of U.S. federal laws (1789–2022)](https://www.nature.com/articles/s41597-023-02758-z)
 - [LawAtlas](https://lawatlas.org/) - Coded laws from Temple University's Public Health Law Review 
 - [TISP](https://osf.io/5c3qd/overview) - Perceptions of science from people in 68 countries
    - From [Perceptions of science, science communication, and climate change attitudes in 68 countries – the TISP dataset](https://www.nature.com/articles/s41597-024-04100-7)
