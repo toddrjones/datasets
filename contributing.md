@@ -12,7 +12,8 @@ You can suggest a new dataset, point out an error, broken link, etc. It is also 
 
 You can contribute by:
 - Opening a [pull request](https://github.com/toddrjones/datasets/pulls) with your suggestion
-- Emailing me
+- [Emailing me](https://www.toddrjones.com/)
+- Opening an issue
 
 I will review and decide if I want to include the change, but no guarantees.
 
@@ -20,7 +21,7 @@ People can use the information you contribute in their own research papers, etc.
 
 ### Sample entry
 
-Please include at the least the first line of this example, and, preferably more:
+Please include at least the first line of this example, and, preferably more:
 
 - [Dataset name](https://link-to-data) - One-line description of what it contains
   - Years: 1990-present; Access: Public
