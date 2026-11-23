@@ -138,6 +138,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - State-level crash data - some states (and cities) have individual-level, geocoded car crash data. A small number of examples:
   - [California](https://data.ca.gov/@california-highway-patrol/ccrs)
   - [Massachusetts](https://massdot-impact-crashes-vhb.opendata.arcgis.com/) and then search for "Crashes"
+  - [Texas](https://www.txdot.gov/data-maps/crash-reports-records/crash-data-analysis-statistics.html) and then register and query.
   - See also [this site](https://www.arcgis.com/home/item.html?id=3ef625ffe7ce4ef38be81ee6d80a5385#overview) and [this other site](https://sspf.tooledesign.com/crash_data_sources), which both detail data availability for each state. 
 - [UTD19](https://utd19.ethz.ch/) - Traffic data from 20k+ stations across 40 cities
   - Years: 2017-2019. Access: public. 
