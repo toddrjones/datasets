@@ -7,7 +7,7 @@ This is a compilation of 150+ free datasets that I hope can be useful to student
 
 ### Contents
 
-Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and Death](#injury-and-death), [Crashes and Traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Weather](#weather), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and Cost of Living](#inflation-and-cost-of-living), [Working](#working), [Businesses](#businesses), [Politics and Voting](#politics-and-voting), [Health, Public Health, and Epidemiology](#health-public-health-and-epidemiology), [Demography](#demography), [Multi-country](#multi-country), [National Statistics Offices](#national-statistical-offices), [Real Estate](#real-estate), [Patents](#patents), [Social Networks](#social-networks), [Beliefs and Values](#beliefs-and-values), [Law](#law), [Environment and Energy](#environment-and-energy), [Maps and Geography](#maps-and-geography), [States, Conflict, and Regimes](#states-conflict-and-regimes), [Macroeconomics](#macroeconomics), [Finance](#finance), [Personal Finance and Expenditures](#personal-finance-and-expenditures), [Charitable Donations](#charitable-donations), [Misc.](#misc), [Packages to Download Data](#packages-to-download-data)
+Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and Death](#injury-and-death), [Crashes and Traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Weather](#weather), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and Cost of Living](#inflation-and-cost-of-living), [Working](#working), [Businesses](#businesses), [Politics and Voting](#politics-and-voting), [Health, Public Health, and Epidemiology](#health-public-health-and-epidemiology), [Demography](#demography), [Multi-country](#multi-country), [National Statistical Offices](#national-statistical-offices), [Real Estate](#real-estate), [Patents](#patents), [Social Networks](#social-networks), [Beliefs and Values](#beliefs-and-values), [Law](#law), [Environment and Energy](#environment-and-energy), [Maps and Geography](#maps-and-geography), [States, Conflict, and Regimes](#states-conflict-and-regimes), [Finance](#finance), [Personal Finance and Expenditures](#personal-finance-and-expenditures), [Macroeconomics](#macroeconomics), [Charitable Donations](#charitable-donations), [Misc.](#misc), [Packages to Download Data](#packages-to-download-data)
 
 ---
 
@@ -45,7 +45,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
   - [Los Angeles](https://data.lacity.org/Public-Safety/LAPD-Calls-for-Service-2024-to-Present/xjgu-z4ju/about_data)
   - [Seattle](https://www.seattle.gov/police/information-and-data/data/public-data-sets)
 - [Stanford Open Policing Project](https://openpolicing.stanford.edu/) - Data on millions of police traffic stops across locations
-- [Justice Outcomes Explorer](https://www.census.gov/data/experimental-data-products/justice-outcomes-explorer.html) - Collaboration between University of Michigan's [Criminal Justices Administrative Records System](https://cjars.org/) and the U.S. Census Bureau. Years covered: 2000-2020 (varies by jurisdiction). Criminal justice involvement includes criminal charges, prison releases, and probation and parole sentences. Outcomes: employment, earnings, government program participation, and mortality.
+- [Justice Outcomes Explorer](https://www.census.gov/data/experimental-data-products/justice-outcomes-explorer.html) - Collaboration between University of Michigan's [Criminal Justice Administrative Records System](https://cjars.org/) and the U.S. Census Bureau. Years covered: 2000-2020 (varies by jurisdiction). Criminal justice involvement includes criminal charges, prison releases, and probation and parole sentences. Outcomes: employment, earnings, government program participation, and mortality.
 
 ---
 
@@ -79,7 +79,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
   - A person participates every month for four months, takes eight months off, then does four more months.
   - A subset of the CPS participates in the ATUS (see above).
 - [Panel Study of Income Dynamics (PSID)](https://psidonline.isr.umich.edu/) - long-running panel household survey
-- [National Longitudinal Study of Youth (NLSY79 and NLSY97)](https://www.bls.gov/nls/cohorts.htm) - detailed, long-running panel surveys
+- [National Longitudinal Survey of Youth (NLSY79 and NLSY97)](https://www.bls.gov/nls/cohorts.htm) - detailed, long-running panel surveys
   - NLSY79 follows people born 1957-64, with the first interview in 1979
   - NLSY97 follows people born 1980-84, with the first interview in 1997
 - [IPUMS International](https://international.ipums.org/international/) - 100+ countries, 650+ surveys, 1B+ records
@@ -133,7 +133,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 ### Crashes and Traffic
 
-- [Fatal Accident Reporting System (FARS)](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars) - Individual-level data on virtually the universe of US fatal car crashes
+- [Fatality Analysis Reporting System (FARS)](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars) - Individual-level data on virtually the universe of US fatal car crashes
   - Years: 1975-present. Includes driver and passenger demographics, car characteristics, location, and other circumstances regarding the crash.
 - State-level crash data - some states (and cities) have individual-level, geocoded car crash data. A small number of examples:
   - [California](https://data.ca.gov/@california-highway-patrol/ccrs)
@@ -276,7 +276,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - [Job to Job Flows (J2J)](https://lehd.ces.census.gov/data/j2j_subsector_research.html) - statistics on job mobility in the United States, including the job-to-job transition rate, hires and separation rates, earnings changes due to job change, and characteristics of the origin and destination job.
 - [LEHD Origin-Destination Employment Statistics (LODES)](https://lehd.ces.census.gov/data/) - source data for the Census [OnTheMap](https://onthemap.ces.census.gov/) data tool, providing statistics at the Census block level at both residential and workplace locations and flows between the two (origin-destination).
 - [Veteran Employment Outcomes (VEO)](https://lehd.ces.census.gov/data/veo_experimental.html) - labor market outcomes for discharged veterans from five branches of the military - Air Force, Army, Coast Guard, Marine Corps, and Navy. Tabulated by military specialization, service characteristics, employer industry, and veteran demographics.
-- [Mobility, Opportunity, and Volatility Statistics (MOVS)](https://www.census.gov/programs-surveys/ces/data/public-use-data/mobility-opportunity-volatility-statistics.html) a dataset that tracts the income changes of a 2005 cohort of U.S. adults from 2005 to 2019 by initial income decile, sex, and race/ethnicity. 
+- [Mobility, Opportunity, and Volatility Statistics (MOVS)](https://www.census.gov/programs-surveys/ces/data/public-use-data/mobility-opportunity-volatility-statistics.html) a dataset that tracks the income changes of a 2005 cohort of U.S. adults from 2005 to 2019 by initial income decile, sex, and race/ethnicity. 
 <!-- - [Anthropic Economic Index](https://huggingface.co/datasets/Anthropic/EconomicIndex) - Actual AI exposure by job and by geography
 - [AI Job Exposure Index](https://github.com/openai/GPTs-are-GPTs) - [from Eloundout et. al](https://www.science.org/doi/10.1126/science.adj0998). Predicted exposure -->
 - [US healthcare job postings and posted pay (CareJobs.Now)](https://doi.org/10.5281/zenodo.23395728) - Open dataset of US healthcare job postings and the hourly pay employers post, by kind of job
@@ -285,7 +285,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 ### Businesses
 - [County Business Patterns](https://www.census.gov/programs-surveys/cbp/data.html) - county-level data on employment and payroll
 - [Chicago Business Registrations](https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses-Current-Active/uupf-x98q/about_data) - geocoded business licenses with business name, date of expiration, etc.
-- [Business Dynamic Statistics](https://www.census.gov/programs-surveys/bds.html) - Annual measures of business dynamics - job creation and destruction, establishment births and deaths, firm startups and shutdowns by establishment and firm characteristics. Also available for specific types of firms/measures: [Patenting Firms](https://www.census.gov/data/experimental-data-products/bds-patenting-firms.html), [High Growth Firms](https://www.census.gov/data/experimental-data-products/bds-high-growth.html), [Goods Traders](https://www.census.gov/data/experimental-data-products/bds-goods-traders.html), [High Tech Industries](https://www.census.gov/data/experimental-data-products/bds-high-tech.html), [Single-Unit Firms with Revenue](https://www.census.gov/data/experimental-data-products/bds-single-unit.html), [Human Capital](https://www.census.gov/data/experimental-data-products/bds-human-capital.html), [Coastal Counties](https://www.census.gov/data/experimental-data-products/bds-coastal-counties.html).
+- [Business Dynamics Statistics](https://www.census.gov/programs-surveys/bds.html) - Annual measures of business dynamics - job creation and destruction, establishment births and deaths, firm startups and shutdowns by establishment and firm characteristics. Also available for specific types of firms/measures: [Patenting Firms](https://www.census.gov/data/experimental-data-products/bds-patenting-firms.html), [High Growth Firms](https://www.census.gov/data/experimental-data-products/bds-high-growth.html), [Goods Traders](https://www.census.gov/data/experimental-data-products/bds-goods-traders.html), [High Tech Industries](https://www.census.gov/data/experimental-data-products/bds-high-tech.html), [Single-Unit Firms with Revenue](https://www.census.gov/data/experimental-data-products/bds-single-unit.html), [Human Capital](https://www.census.gov/data/experimental-data-products/bds-human-capital.html), [Coastal Counties](https://www.census.gov/data/experimental-data-products/bds-coastal-counties.html).
 - [Dispersion Statistics on Productivity (DiSP)](https://www.census.gov/data/experimental-data-products/dispersion-statistics-on-productivity.html) - within-industry measures of productivity dispersion. Covers every five years from 1987-2017 by 4-digit NAICS for manufacturing and retail sectors.
 - [Business Trends and Outlook Survey (BTOS)](https://www.census.gov/data/experimental-data-products/business-trends-and-outlook-survey.html) high-frequency, nationally representative data on U.S. employer businesses. Collected starting September 11, 2023. Data released every 2 weeks by NAICS sector, state, and 25 most populous MSAs.
 
@@ -311,8 +311,8 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - [National Immunization Survey](https://www.cdc.gov/nis/about/index.html)
 - [National Survey of Children's Health](https://www.census.gov/programs-surveys/nsch.html)
 - [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/index.html)
-- [Health and Retirement Survey](https://hrs.isr.umich.edu/)
-- [Youth Risk Behavioral Surveillance System](https://www.cdc.gov/yrbs/index.html)
+- [Health and Retirement Study](https://hrs.isr.umich.edu/)
+- [Youth Risk Behavior Surveillance System](https://www.cdc.gov/yrbs/index.html)
 - [National Health and Aging Trends Study (NHATS)](https://www.nhats.org/nhats)
 - [Global Survey of School Meal Programs](https://gcnf.org/survey-data/) - school meals survey across many countries
    - Years: 2019-present; Access: Public
@@ -344,7 +344,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 ### Multi-Country
 
-- [Gapminder](https://www.gapminder.org/data/) - various longitudinal, global datasets covering things like life expectancy, GDP, fertility, life expectancy, and child mortality
+- [Gapminder](https://www.gapminder.org/data/) - various longitudinal, global datasets covering things like life expectancy, GDP, fertility, and child mortality
 - [Our World in Data](https://ourworldindata.org/search) - many datasets covering many topics such as health, education, environment, war, demographics, and democracy. Generally global in nature
 - [World Income Inequality Database](https://www.wider.unu.edu/project/world-income-inequality-database) - longitudinal data on income inequality for 200+ countries
 - [Government Revenue Dataset](https://www.wider.unu.edu/project/grd-government-revenue-dataset) - government revenue and tax data for nearly 200 countries
@@ -393,7 +393,9 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - [World Values Survey](https://www.worldvaluessurvey.org/WVSContents.jsp) - Worldwide survey on beliefs and values
 - [European Social Survey](https://www.europeansocialsurvey.org/) - European survey on attitudes, values, etc.
 - [World Risk Poll & Resilience Index](https://www.lrfoundation.org.uk/world-risk-poll-data) - Global survey on safety, risk, and harm
-- [Afrobarometer](https://www.afrobarometer.org/data/) - African surveys on many topics such as democracy and governance 
+- [Afrobarometer](https://www.afrobarometer.org/data/) - African surveys on many topics such as democracy and governance
+- [TISP](https://osf.io/5c3qd/overview) - Perceptions of science from people in 68 countries
+   - From [Perceptions of science, science communication, and climate change attitudes in 68 countries – the TISP dataset](https://www.nature.com/articles/s41597-024-04100-7)
 
 ---
 
@@ -402,15 +404,13 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - [A list of all federal laws](https://osf.io/qa289) 
   - From [A comprehensive dataset of U.S. federal laws (1789–2022)](https://www.nature.com/articles/s41597-023-02758-z)
 - [LawAtlas](https://lawatlas.org/) - Coded laws from Temple University's Public Health Law Review 
-- [TISP](https://osf.io/5c3qd/overview) - Perceptions of science from people in 68 countries
-   - From [Perceptions of science, science communication, and climate change attitudes in 68 countries – the TISP dataset](https://www.nature.com/articles/s41597-024-04100-7)
 
 ---
 
 ### Environment and Energy
 
-- [ERCOT](http://ercot.com/gridinfo/load/load_hist/index.html) - hourly electricity load data in Texas
-  - 1995-present. ERCOT is the largest provider in the state
+- [ERCOT](https://ercot.com/gridinfo/load/load_hist/index.html) - hourly electricity load data in Texas
+  - 1995-present. ERCOT is the largest grid operator in the state
 - [Gridded Environmental Impacts Frame (Gridded EIF)](https://www.census.gov/data/experimental-data-products/gridded-eif.html) - detailed demographic counts by age, sex, race and ethnicity and data for environmental hazards on a 0.01 degree grid of the United States. 
 
 ---
@@ -493,7 +493,7 @@ Lidar
 ### Packages to Download Data
 
 - [tidycensus](https://walker-data.com/tidycensus/) - R package to get decennial Census and ACS data (requires a Census API key)
-- [RKaggle](https://github.com/benyamindsmith/RKaggle) - R package to Kaggle datasets Load datasets
+- [RKaggle](https://github.com/benyamindsmith/RKaggle) - R package to load datasets from Kaggle
 - [Elevation data](https://cran.r-project.org/web/packages/elevatr/index.html) - R package to get elevation data from a variety of sources
   
 Disclaimer: This site may contain errors and in no way do we guarantee the accuracy or quality of the referenced data. In no event will we be liable for any loss or damage.
