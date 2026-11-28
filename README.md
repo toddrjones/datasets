@@ -480,6 +480,9 @@ Lidar
 ### Charitable Donations
 
 - [GivingPulse](https://givingpulse.givingtuesday.org/) - weekly survey on charitable donations, volunteering, sentiment towards giving, etc. 
+- [US tax-exempt organizations with coordinates](https://huggingface.co/datasets/gridpin/us-nonprofits-geocoded) - The IRS Exempt Organizations Business Master File with a latitude and longitude for each street address, geocoded offline
+  - Years: snapshot of the 2026-11-10 IRS extract; Access: Public
+  - Unit of observation: organization (EIN), 1.6 million rows; name, city, state, ZIP, subsection, NTEE code, ruling date, point and its precision. Links to IRS Form 990 data by EIN. Post-office-box addresses are left out
 
 ---
 
